@@ -45,7 +45,7 @@
 
 ## 🔗 相关链接
 - [原论文 PDF](https://arxiv.org/pdf/2410.21411.pdf)  
-- [GitHub 仓库主页]((https://github.com/Mengzibin/SocialGPT)
+- [GitHub 仓库主页](https://github.com/Mengzibin/SocialGPT)
 
 ---
 
