@@ -12,7 +12,7 @@
 ---
 
 ## 📂 汇报 PPT
-[![Download PPT](https://github.com/user-attachments/files/27562504/5.pptx)
+[Download PPT](https://github.com/user-attachments/files/27562504/5.pptx)
 
 
 > 点击按钮下载完整 PPT，包含详细技术实现、实验结果及示例。
